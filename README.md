@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
@@ -43,9 +42,6 @@
   </style>
 </head>
 <body>
-
-
-
 
 <button onclick="playMusic()">BGM</button>
 
